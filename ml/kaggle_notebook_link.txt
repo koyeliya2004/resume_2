@@ -1,0 +1,2 @@
+# Add your Kaggle training notebook link here
+# Example: https://www.kaggle.com/code/koyeliya2004/resume-scorer-ml-training

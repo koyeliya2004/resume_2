@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+groq
+PyMuPDF
+pydantic
+scikit-learn
+xgboost
+joblib
+sqlalchemy
+psycopg2-binary
+spacy
